@@ -1,0 +1,5 @@
+# Optional dependency for embedded 3D viewer window (Mol*)
+pywebview>=5.0
+
+# Optional dependency for drag-and-drop file loading in the GUI
+tkinterdnd2>=0.4.2
